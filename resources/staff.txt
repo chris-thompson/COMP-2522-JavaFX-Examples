@@ -1,0 +1,6 @@
+ca.bcit.comp1510.examples.chapter10.Executive	Sam	123 Main Line	555-0469	123-452-789	2423.07
+ca.bcit.comp1510.examples.chapter10.Employee	Carla	456 Off Line	555-0101	987-654-321	1246.15
+ca.bcit.comp1510.examples.chapter10.Employee	Woody	789 Off Rocker	555-0000	010-203-040	1169.23
+ca.bcit.comp1510.examples.chapter10.Hourly	Diane	678 Fifth Ave.	555-0690	958-473-625	10.55
+ca.bcit.comp1510.examples.chapter10.Volunteer	Norm	987 Suds Blvd.	555-8374
+ca.bcit.comp1510.examples.chapter10.Volunteer	Cliff	321 Duds Lane	555-7282
