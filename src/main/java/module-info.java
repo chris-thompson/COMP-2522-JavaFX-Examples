@@ -1,5 +1,5 @@
 /**
- * This is a module. Modules were introduced in Java 9.
+ * This is a module descriptor. Modules were introduced in Java 9.
  */
 module ca.bcit.comp2522 {
     requires javafx.controls;

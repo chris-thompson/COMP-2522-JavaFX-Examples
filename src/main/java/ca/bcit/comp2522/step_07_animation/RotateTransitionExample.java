@@ -52,7 +52,7 @@ public class RotateTransitionExample extends Application {
         rotateTransition.setCycleCount(50);
 
         //Setting auto reverse value to false
-        rotateTransition.setAutoReverse(false);
+        rotateTransition.setAutoReverse(true);
 
         //Playing the animation
         rotateTransition.play();

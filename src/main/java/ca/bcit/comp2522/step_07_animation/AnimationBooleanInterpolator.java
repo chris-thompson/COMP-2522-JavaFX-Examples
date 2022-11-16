@@ -17,7 +17,7 @@ public class AnimationBooleanInterpolator extends Interpolator {
 
     /**
      * Interpolates a position on a curve based on how much time has elapsed when
-     * time is normalized to rhe range [0.0, 1.0].
+     * time is normalized to the range [0.0, 1.0].
      *
      * @param time
      *            time, but normalized to the range [0.0..1.0], where 0.0 is the
