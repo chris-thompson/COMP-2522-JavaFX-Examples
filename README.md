@@ -1,4 +1,4 @@
-# 2522-202230-JavaFX-Examples
+# COMP-2522-JavaFX-Examples
 
 These code snippets will help you learn the JavaFX API
 
@@ -8,7 +8,7 @@ These code snippets will help you learn the JavaFX API
 
 ## Learn about the API here:
 
-[JavaFX API](https://openjfx.io/javadoc/19/)
+[JavaFX API](https://openjfx.io/javadoc/20/)
 
 ## Maven
 
